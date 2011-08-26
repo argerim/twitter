@@ -1,0 +1,8 @@
+#twitter_div { text-align:left; width: 300px; padding: 10px; background-color: #410323; border: solid 1px #5E0F38; }
+
+ul#twitter_update_list { width: 300px; padding: 0; margin: 0; overflow: hidden; }
+
+ul#twitter_update_list li {color: #CA0A6C; width: 300px; padding: 5px 0 5px 0; border-bottom: solid 1px #680441; list-style: none; }
+
+ul#twitter_update_list li span { color: #FFFFFF; border-bottom: dotted 1px; text-decoration: none; }
+

@@ -1,0 +1,10 @@
+<center>
+<div id="twitter_div">
+	<ul id="twitter_update_list">
+	    <% @users.each do |twitter| %>
+		    <li><span>[<%= twitter.screen_name %>] Diz:</span> <%= twitter.text %></li>
+		  <%end%>
+	</ul>
+</div>
+</center>
+
